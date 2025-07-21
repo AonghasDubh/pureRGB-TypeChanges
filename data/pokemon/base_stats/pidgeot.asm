@@ -3,7 +3,7 @@
 	db  90,  90,  75,  91,  70
 	;   hp  atk  def  spd  spc
 
-	db NORMAL, FLYING ; type
+	db FLYING, FLYING ; type
 	db 65 ; catch rate
 	db 172 ; base exp
 
